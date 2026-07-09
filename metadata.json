@@ -1,0 +1,6 @@
+{
+  "name": "Mizan Desktop Core",
+  "description": "A premium offline desktop ERP/POS system designed for business management in Arabic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
